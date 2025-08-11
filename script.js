@@ -1,6 +1,5 @@
 // Configuration
 const CONFIG = {
-    NOTION_TOKEN: 'your-notion-token-here', // Replace with your actual token
     NOTION_DATABASE_URL: 'https://www.notion.so/24c6ace1e839801ab19ac8767b025915',
     TEMPLATE_ENGINE_URL: 'https://anica-blip.github.io/3c-content-template-engine/',
     DASHBOARD_CHAT_URL: 'https://threadcommand.center/dashboard/chat',
@@ -305,15 +304,15 @@ Happy writing! 🎉
 
 // Template Database IDs (you'll need to add these)
 const DATABASE_IDS = {
-    'Social Media': 'your-social-media-db-id',
-    'Presentation': 'your-presentation-db-id',
-    'Video Message': 'your-video-message-db-id',
-    'Anica Chat': 'your-anica-chat-db-id',
-    'Blog Posts': 'your-blog-posts-db-id',
-    'News Article': 'your-news-article-db-id',
-    'Newsletter': 'your-newsletter-db-id',
-    'Email Templates': 'your-email-templates-db-id',
-    'Custom Templates': 'your-custom-templates-db-id'
+    'Social Media': '24c6ace1e8398074baf6d68c063fedff',
+    'Presentation': '24c6ace1e839805aa30ce25a6bbadf9e',
+    'Video Message': '24c6ace1e83980c5a0f3cc152309bb3f',
+    'Anica Chat': '24c6ace1e83980a3b977c75db15ccb56',
+    'Blog Posts': '24c6ace1e83980a7914ddceb4bf2b61f',
+    'News Article': '24c6ace1e8398071a50ce9603d30dd59',
+    'Newsletter': '24c6ace1e8398032a414db25230500d9',
+    'Email Templates': '24c6ace1e839808e842cca14fcdf4973',
+    'Custom Templates': '24c6ace1e8398059b6bde48d0caf9c0b'
 };
 
 // Content Block Templates
