@@ -1,5 +1,7 @@
 # 3C Desktop Editor
 
+> ⚖️ This repository is protected under a binding [Legal Disclaimer](./LEGAL_DISCLAIMER.md) that governs all use, cloning, and forking from the date of inception. Please read before use.
+
 A powerful desktop application for editing 3C files with syntax highlighting, file management, and modern UI features.
 
 ## Features
